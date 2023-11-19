@@ -1,0 +1,5 @@
+C:\Users\20iri\Desktop\Labs\2 курс\ООП ЛАБИ 2 КУРС\ProjectA\obj\Debug\net7.0\ProjectA.csproj.AssemblyReference.cache
+C:\Users\20iri\Desktop\Labs\2 курс\ООП ЛАБИ 2 КУРС\ProjectA\obj\Debug\net7.0\ProjectA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20iri\Desktop\Labs\2 курс\ООП ЛАБИ 2 КУРС\ProjectA\obj\Debug\net7.0\ProjectA.AssemblyInfoInputs.cache
+C:\Users\20iri\Desktop\Labs\2 курс\ООП ЛАБИ 2 КУРС\ProjectA\obj\Debug\net7.0\ProjectA.AssemblyInfo.cs
+C:\Users\20iri\Desktop\Labs\2 курс\ООП ЛАБИ 2 КУРС\ProjectA\obj\Debug\net7.0\ProjectA.csproj.CoreCompileInputs.cache
